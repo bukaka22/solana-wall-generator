@@ -2,7 +2,7 @@ Solana  Wallet Generator
 
 Create Solana Wallets with Customized Addresses
 
-Developed in Go, this Ethereum Wallet Generator enables the rapid creation of multiple Ethereum and crypto vanity wallets. It's optimized for speed, capable of generating ten thousand wallets (vanity addresses and mnemonic seeds) in just a second.
+Developed in Go, this Solana Wallet Generator enables the rapid creation of multiple Ethereum and crypto vanity wallets. It's optimized for speed, capable of generating ten thousand wallets (vanity addresses and mnemonic seeds) in just a second.
 
 Features:
 
